@@ -8,4 +8,4 @@ crate-type = ["cdylib"]
 path = "calculator.rs"
 
 [dependencies]
-nalgebra = { version = "0.20" }
+nalgebra = { version = "0.27" }
